@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--无媒体cluster区域-->
+    <!--黑色50%透明度-->
+    <color name="half_translucent_back">#7FFFFFFF</color>
+</resources>

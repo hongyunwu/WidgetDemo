@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WidgetDemo</string>
+
+    <!--无媒体cluster区域-->
+    <string name="no_media_desc">暂无多媒体信息</string>
+    <string name="btn_no_media">shownomediacluster</string>
+</resources>
